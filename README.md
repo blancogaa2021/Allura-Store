@@ -1,5 +1,5 @@
 El siguiente repositorio fue creado para desarrollar el primer desafio de la especialización de Ciencia de Datos.
-Donde se desarrolla el siguiente problema:
+Donde se aborda el siguiente problema:
 El Sr. Juan necesita decidir qué tienda de su cadena Alura Store debe vender para iniciar un nuevo emprendimiento. 
 Por lo que se necesita analizar los datos de ventas, rendimiento y reseñas de las 4 tiendas de Alura Store existentes. 
 Con el objetivo de identificar la tienda menos eficiente y presentar una recomendación final basada en los datos.
